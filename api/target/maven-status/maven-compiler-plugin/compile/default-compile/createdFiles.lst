@@ -1,0 +1,3 @@
+com\webshop\api\model\Product.class
+com\webshop\api\ApiApplication.class
+com\webshop\api\repository\ProductRepository.class
